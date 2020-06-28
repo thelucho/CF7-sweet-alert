@@ -1,3 +1,13 @@
 .wpcf7-response-output {
     display: none !important;
 }
+
+.swal-button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.swal-button-container .swal-button {
+    min-width: 120px;
+    text-decoration: none;
+}
